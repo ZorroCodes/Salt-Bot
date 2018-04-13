@@ -10,5 +10,5 @@ Salt Bot Has Many Features Like Moderation, Utility, Information And Music Comma
 # Logging The Bot In
 > When You Import This On Glitch Create An ENV File Then Add TOKEN=
 
-**NOTICE*
+**NOTICE**
 Add Your Bot Token Next To The "=" Remember NEVER SHARE IT WITH ANYONE
